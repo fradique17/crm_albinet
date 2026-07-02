@@ -1,0 +1,144 @@
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: bastostech@gmail.pt
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá Bastos,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=f060537f8d5d544346b0fcc21a2f04c3c2c27295dda4f56273e5e8327d774a29&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=f060537f8d5d544346b0fcc21a2f04c3c2c27295dda4f56273e5e8327d774a29&acao=recusar
+
+==================================================
+
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: admin@albinet.pt
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá Ana Rodrigues,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=8bd03d2de2c94c3933355f865798a2290613691ac0b1a20f78bd7108d6466162&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=8bd03d2de2c94c3933355f865798a2290613691ac0b1a20f78bd7108d6466162&acao=recusar
+
+==================================================
+
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: 31809@aeamatolusitano.edu.pt
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá Martim Fradique,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=30a01a28bd8291ad2d651597f6c94878e1beabc7b9cc8431ed492579dbef6dd4&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=30a01a28bd8291ad2d651597f6c94878e1beabc7b9cc8431ed492579dbef6dd4&acao=recusar
+
+==================================================
+
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: teste@teste.pt
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá Teste,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=3807ec74432d4e3a71ce5c4395d80c72d9e9afa992f6dd3c66c6d2ca382c15f9&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=3807ec74432d4e3a71ce5c4395d80c72d9e9afa992f6dd3c66c6d2ca382c15f9&acao=recusar
+
+==================================================
+
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: google@gmail.com
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá Larry Page,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=f42f4aac51c25a96d4f07a2a358a7ffab843141d16cab8deed80984b4234cf4f&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=f42f4aac51c25a96d4f07a2a358a7ffab843141d16cab8deed80984b4234cf4f&acao=recusar
+
+==================================================
+
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: m4rtim54@gmail.com
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá Bernardo,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=e776fdc06fda120417f086f40d7a2563658821337a757dc447506757d2ad1517&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=e776fdc06fda120417f086f40d7a2563658821337a757dc447506757d2ad1517&acao=recusar
+
+==================================================
+
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: TESTE@TESTE.COM
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá TESTE,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=dc939d7f5937da47bc3ceec5a1b10b0966b32d0d75baf1fd0ee26f83377079b6&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=dc939d7f5937da47bc3ceec5a1b10b0966b32d0d75baf1fd0ee26f83377079b6&acao=recusar
+
+==================================================
+
+==================================================
+DE: CRM Albinet <suporte@albinet.pt>
+PARA: TESTE@admin.com
+ASSUNTO: Aceitacao de Termos RGPD - CRM Albinet
+==================================================
+Olá TESTE,
+
+Foste adicionado à nossa base de dados de contactos.
+Para cumprirmos as normas do RGPD, precisamos do teu consentimento.
+
+-> Para ACEITAR e continuar na nossa base de dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=6043fdfcdc64f735f3460f9606b93ce0eb206cf873bd8609abf778bd4f58e4cd&acao=aceitar
+
+-> Para RECUSAR e remover permanentemente os teus dados, clica aqui:
+http://localhost/crm_albinet/views/gerir_rgpd.php?token=6043fdfcdc64f735f3460f9606b93ce0eb206cf873bd8609abf778bd4f58e4cd&acao=recusar
+
+==================================================
+

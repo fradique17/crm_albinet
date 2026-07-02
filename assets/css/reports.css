@@ -1,0 +1,42 @@
+/* Customização específica para a secção de relatórios */
+
+/* Efeito de elevação sútil nos cards */
+.report-card {
+    position: relative;
+    overflow: hidden;
+}
+
+/* Pseudo-elemento para criar um brilho de fundo no hover */
+.report-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(800px circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(255,255,255,0.02), transparent 40%);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.report-card:hover::before {
+    opacity: 1;
+}
+
+/* Assegurar que o conteúdo fica acima do glow */
+.report-card > * {
+    position: relative;
+    z-index: 1;
+}
+
+/* Estilização para o seletor de data, de forma a ficar escuro */
+input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(0.6); /* Transforma o ícone de calendário para cinzento claro no Chrome/Safari */
+    cursor: pointer;
+}
+
+input[type="date"] {
+    color-scheme: dark; /* Força os pop-ups de data nativos a abrir em dark mode */
+}

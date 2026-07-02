@@ -1,0 +1,63 @@
+
+    /* Estilos extra específicos para a página de gestão de ferramentas */
+    .tools-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      width: 100%;
+    }
+    .card {
+      max-width: 100%; /* Sobrescreve o max-width de 800px para a grelha funcionar melhor */
+    }
+    .list-group {
+      list-style: none;
+      margin-top: 16px;
+      margin-bottom: 20px;
+      border: 1px solid var(--border-soft);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .list-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 14px;
+      background: var(--bg-main);
+      border-bottom: 1px solid var(--border-soft);
+      font-size: 13px;
+    }
+    .list-item:last-child { border-bottom: none; }
+    .btn-icon {
+      background: transparent;
+      border: none;
+      color: var(--danger);
+      cursor: pointer;
+      font-size: 14px;
+      transition: 0.2s;
+    }
+    .btn-icon:hover { color: #fca5a5; }
+    .add-form {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    .add-form .form-control {
+      flex: 1;
+    }
+
+    .custom-line {
+      margin: 25px auto;
+      padding: 0;
+      width: 60%;
+      border: none;
+      border-top: 5px solid red;
+    }
+
+    .custom-line legend {
+      text-align: center;
+      padding: 0 20px;
+      font-weight: bold;
+      font-size: 25px;
+      color: white;
+    }

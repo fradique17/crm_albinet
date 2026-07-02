@@ -1,0 +1,189 @@
+body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* Fundo ultra-escuro correspondente ao painel do Dashboard */
+    background-color: #f8fafc;; 
+    color: #334155;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.login-container {
+    /* Cor ligeiramente mais clara que o fundo, idêntica ao card "Total de Leads" */
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    /* Borda subtil azulada/escura */
+    border: 1px solid #e2e8f0; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 420px;
+}
+
+.title {
+    text-align: center;
+    color: #6366f1; /* Tom de azul/roxo do gradiente do logo do CRM */
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    letter-spacing: -0.02em;
+    margin-top: 0;
+    margin-bottom: 28px;
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.input-box label {
+    font-size: 13px;
+    font-weight: 500;
+    color: #9ca3af;
+}
+
+.input-box input {
+    /* Fundo dos inputs contrastando com o card */
+    background-color: #ffffff; 
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    padding: 12px 14px;
+    color: #0f172a;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+}
+
+/* Efeito de Focus idêntico ao do item ativo "Dashboard Operações" */
+.input-box input:focus {
+    outline: none;
+    border-color: #4f46e5;
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.15);
+}
+
+.login-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+    font-size: 13px;
+}
+
+.login-actions a {
+    color: #818cf8; /* Tom suave de link que combina com o subtítulo do painel */
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.login-actions a:hover {
+    color: #6366f1;
+    text-decoration: underline;
+}
+
+button[type="submit"] {
+    width: 100%;
+    /* Roxo vibrante do botão principal implícito na marca */
+    background-color: #4f46e5; 
+    box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+    color: #ffffff;
+    border: none;
+    padding: 14px;
+    border-radius: 8px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #4338ca;
+    box-shadow: 0 6px 16px rgba(79, 70, 229, 0.4);
+    transform: translateY(-1px);
+}
+
+button[type="submit"]:active {
+    transform: translateY(0);
+}
+
+/* Transição suave nas cores */
+body, .login-container, input, button {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* --- CLASSE UTILITÁRIA PARA ESCONDER ELEMENTOS --- */
+.hidden {
+    display: none !important;
+}
+
+/* --- ESTILOS DO BOTÃO DE TEMA --- */
+.theme-toggle-btn {
+    position: fixed; /* Usa fixed para o botão ficar sempre visível no canto do ecrã */
+    top: 20px;
+    right: 20px;
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 50%; /* Faz um botão redondo */
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #475569;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+    z-index: 9999; /* Garante que fica por cima de tudo */
+}
+
+/* Tamanho fixo para os ícones SVG */
+.theme-icon {
+    width: 22px;
+    height: 22px;
+}
+
+/* --- AJUSTES DO MODO ESCURO --- */
+html.dark body {
+    background-color: #070a13; 
+    color: #f1f5f9;
+}
+
+html.dark .login-container {
+    background-color: #0f172a;
+    border: 1px solid #1e293b;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+}
+
+html.dark .title {
+    color: #f8fafc;
+}
+
+html.dark .input-box label {
+    color: #94a3b8;
+}
+
+html.dark .input-box input {
+    background-color: #1e293b;
+    border-color: #334155;
+    color: #f1f5f9;
+}
+
+html.dark .input-box input:focus {
+    border-color: #818cf8;
+}
+
+/* Estilo do botão no modo escuro */
+html.dark .theme-toggle-btn {
+    background-color: #1e293b;
+    border-color: #334155;
+    color: #cbd5e1;
+}
+
+html.dark .hidden {
+    display: none;
+}
